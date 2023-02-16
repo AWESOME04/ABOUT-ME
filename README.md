@@ -1,5 +1,5 @@
 # ABOUT-MEE
-The purpose of this is to give a brief description of my current goals, objectives, skills and projects.
+The purpose of this is to give a brief description of my current goals skills and projects.
 
 
 Skills ____________________________________________________________________________________________
